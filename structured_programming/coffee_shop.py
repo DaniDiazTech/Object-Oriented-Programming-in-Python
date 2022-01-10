@@ -1,3 +1,5 @@
+"Example of structured programming"
+
 small = 2
 regular = 5
 big = 6
